@@ -1,0 +1,28 @@
+#main-cont {
+    background-image: url(https://ak9.picdn.net/shutterstock/videos/25319459/thumb/1.jpg);
+    background-color: rgb(100, 2, 2);
+}
+
+.container {
+    background-color: white;
+}
+
+.head {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(155, 3, 3);
+    color: aliceblue;
+}
+
+.movies-view {
+    background: white;
+    height: auto;
+    width: 100% auto;
+}
+
+.col-centered{
+    display: inline-flex;
+    margin: 0 auto;
+    float: none;
+}
