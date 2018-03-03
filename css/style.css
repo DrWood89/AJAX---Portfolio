@@ -3,6 +3,10 @@
     background-color: rgb(100, 2, 2);
 }
 
+img {
+    max-width: 100%;
+}
+
 .container {
     background-color: white;
 }
@@ -25,4 +29,17 @@
     display: inline-flex;
     margin: 0 auto;
     float: none;
+}
+
+#gif-cont {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item  {
+    box-sizing: border-box;
+    display: inline-block;
+    float: left;
+    width: 33.33333%;
+    padding: 5px;
 }
