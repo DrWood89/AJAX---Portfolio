@@ -59,4 +59,4 @@ to click on a button to view the first sets of giphs.
 ---
 ### 6-Preview Link
 
-[deployed link](https://drwood89.github.io/AJAX---Portfolio/)
+[deployed link](https://drwood89.github.io/GIPHY_API/)
